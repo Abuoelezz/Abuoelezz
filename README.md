@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mabuoelezz@gmail.com**
 
-- 📄 Know about my experiences [my CV](https://drive.google.com/file/d/1rMm8TI5OnDtmfmEpgx47Olqbadm5sAwX/view?usp=sharing)
+- 📄 Know about my experiences [my CV](https://drive.google.com/file/d/1DqBDArGS8QNOkdCOoeVMCqJmNHgz7Es7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
