@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [my CV](https://drive.google.com/file/d/1228Llm6OaJ-hZGF49dkdkfNvxkhc9i8Y/view?usp=sharing)
 
+- 👨‍💻 All of my projects are available at [My Portfolio](https://abuoelezz-portfolio.vercel.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammad-abuoelezz-530bba232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mohammad-abuoelezz-530bba232" height="30" width="40" /></a>
