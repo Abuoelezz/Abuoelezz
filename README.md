@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Mohammad Abuoelezz</h1>
-<h3 align="center">A passionate Full Stack Engineer from Egypt</h3>
+<h3 align="center">A passionate Full Stack Developer from Egypt</h3>
 
 - 🌱 I’m currently learning **React and Nodejs**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mabuoelezz@gmail.com**
 
-- 📄 Know about my experiences [my CV](https://drive.google.com/file/d/1228Llm6OaJ-hZGF49dkdkfNvxkhc9i8Y/view?usp=sharing)
+- 📄 Know about my experiences [my CV](https://drive.google.com/file/d/1WK-NNH_TJ2DNXSxHXIcdh8zuXK8Er9Xo/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abuoelezz-portfolio.vercel.app/)
 
