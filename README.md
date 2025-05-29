@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Mohammad Abuoelezz</h1>
-<h3 align="center">A passionate Full Stack Developer from Egypt</h3>
+<h3 align="center">A passionate MERN Stack Developer from Egypt</h3>
 
 - 🌱 I’m currently learning **React and Nodejs**
 
